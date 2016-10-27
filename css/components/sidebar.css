@@ -1,7 +1,7 @@
 .sidebar {
   width: 100px;
   position: fixed;
-  top: 0;
+  top: 50px;
   margin-left: 20px;
   z-index: 1;
   font-size: 30px;
@@ -25,4 +25,8 @@
   text-decoration: none;
   color: white;
   opacity: 0.8;
+}
+
+.icon:hover {
+  opacity: 0.5;
 }
