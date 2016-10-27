@@ -1,0 +1,16 @@
+.btn-email-signup {
+  background-color: #0E823C;
+  color: white;
+  font-weight: bolder;
+  font-size: 14px;
+  padding: 15px 20px;
+  margin-top: 10px;
+  border-radius: 3px;
+  border: none;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.btn-email-signup:hover {
+  background-color: #095E2B;
+}

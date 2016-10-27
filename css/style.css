@@ -1,0 +1,22 @@
+/* --- Components design --- */
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/tabs.css");
+
+/*font-family: 'Righteous', cursive;
+font-family: 'Bangers', cursive;*/
+
+/*General Styling*/
+body {
+  font-family: "Bangers", cursive;
+  font-weight: normal;
+  letter-spacing: 5px;
+}
+
+.page-wrapper {
+  margin: 0;
+}
+
+.text-center {
+  text-align: center;
+}

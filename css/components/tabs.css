@@ -1,0 +1,25 @@
+.tabs {
+  display: flex;
+  padding: 10px 0 0 0;
+  opacity: 0.8;
+}
+
+.tab {
+  opacity: 0.4;
+  flex: 0 0 33%;
+  white-space: nowrap;
+}
+
+.tab a {
+  text-decoration: none;
+  color: white;
+}
+
+.tab a:hover {
+  color: #B9B9B9;
+}
+
+.tab.active {
+  opacity: 1;
+  border-bottom-color: white;
+}
