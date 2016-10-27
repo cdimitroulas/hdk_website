@@ -2,6 +2,7 @@
 @import url("components/banner.css");
 @import url("components/button.css");
 @import url("components/tabs.css");
+@import url("components/sidebar.css");
 
 /*font-family: 'Righteous', cursive;
 font-family: 'Bangers', cursive;*/
@@ -15,6 +16,8 @@ body {
 
 .page-wrapper {
   margin: 0;
+  position: relative;
+  z-index: 0
 }
 
 .text-center {
