@@ -18,8 +18,3 @@
 .tab a:hover {
   color: #B9B9B9;
 }
-
-.tab.active {
-  opacity: 1;
-  border-bottom-color: white;
-}
